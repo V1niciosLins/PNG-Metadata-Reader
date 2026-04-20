@@ -1,0 +1,11 @@
+build/
+out/
+bin/
+CMakeFiles/
+.cache/
+
+.vscode/
+.idea/
+*.swp
+
+compile_commands.json
