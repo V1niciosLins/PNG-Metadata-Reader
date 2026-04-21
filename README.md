@@ -22,7 +22,7 @@ Um parser simples escrito em C++23 para ler metadados ocultos em arquivos PNG. E
 ```bash
 cmake -S . -B build
 cmake --build build
-´´´
+```
 
 ## Uso:
 Passe o caminho da imagem como argumento:
